@@ -1,0 +1,10 @@
+{
+  "descriptionTitle": "Description",
+  "errorTitle": "Error",
+  "errorRetry": "Retry",
+  "noItems": "Oops! There were no photos to display.",
+  "errorRequestCancelled": "The request to the server was cancelled.",
+  "errorTimeout": "The connection with our servers has timed out.",
+  "errorNoNetwork": "No network connectivity, Please check your settings.",
+  "errorGeneric": "Oops! Something went wrong. Please try again."
+}

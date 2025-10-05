@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>shared</string>
+	<string>QuartzCore</string>
+	<string>sqflite</string>
+	<string>FlutterMacOS</string>
+	<string>sqlite3</string>
+	<string>Flutter</string>
+	<string>objc</string>
+	<string>path</string>
+	<string>UIKit</string>
+	<string>fluttertoast</string>
+	<string>Foundation</string>
+</array>
+</plist>

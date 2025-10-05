@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF202020</color>
+    <color name="primaryContainer">#FF121212</color>
+    <color name="colorOnPrimary">#DEFFFFFF</color>
+    <color name="secondary">#FFFF6363</color>
+    <color name="colorOnSecondary">#FF212121</color>
+    <color name="surface">#FF323232</color>
+    <color name="colorOnSurface">#FFECECEC</color>
+
+    <color name="primaryPalette" type="material">#FFECECEC</color>
+</resources>

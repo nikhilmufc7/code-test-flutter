@@ -1,0 +1,16 @@
+{
+  "" : {
+    "dependencies" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-primary.d",
+    "diagnostics" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-primary.dia",
+    "emit-module-dependencies" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-primary-emit-module.dia",
+    "pch" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-primary.swiftdeps"
+  },
+  "/Users/nikhil.singh/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/darwin/path_provider_foundation/Sources/path_provider_foundation/PathProviderPlugin.swift" : {
+
+  },
+  "/Users/nikhil.singh/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/darwin/path_provider_foundation/Sources/path_provider_foundation/messages.g.swift" : {
+
+  }
+}

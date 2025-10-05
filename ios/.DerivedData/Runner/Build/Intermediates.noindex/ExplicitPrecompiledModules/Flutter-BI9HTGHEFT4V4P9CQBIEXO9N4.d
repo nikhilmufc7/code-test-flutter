@@ -1,0 +1,25 @@
+moduledependenciestarget: \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/UserNotifications.framework/Modules/module.modulemap \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterSceneDelegate.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/nikhil.singh/Desktop/code-test-flutter-main/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHourFormat.h

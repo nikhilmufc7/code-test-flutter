@@ -1,0 +1,69 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4224aca2d35853b4eb24b83dc0aa2f067a"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4230037b09fee48cfce1f8562d753688c8"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421304d3d2169071b3ca365b19f5340b7c"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42571e4e34b09fc4b3712323a8c5b27905"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4228cab1f188854e0a973e6ff6905c5ffe"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42839a1650b1f10605b2db52456c9e6468"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e0288a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "containerPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Build/Products",
+      "pchPath" : "/Users/nikhil.singh/Desktop/code-test-flutter-main/ios/.DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
